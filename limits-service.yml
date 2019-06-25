@@ -1,6 +1,3 @@
-server:
-  port: 8080
-
 limits-service:
-  minimum: 43
-  maximum: 12345
+  minimum: 123
+  maximum: 98700
